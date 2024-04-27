@@ -9,7 +9,7 @@ Maven reads a file which is pom.xml where the following are defined
  * project metadata
  * dependencies
 
-## ![maven 5 minutes](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
+## ![maven 5 minutes] (https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
 
 # Maven projects have goals
 ```
