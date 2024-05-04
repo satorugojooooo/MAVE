@@ -11,6 +11,7 @@
     <input type="checkbox" name="author" value="Sriram AD support eng">Sriram
     <input type="checkbox" name="author" value="Nandhini Devops Eng">Nandhini
     <input type="checkbox" name="author" value="Subiksha AD support eng">Subiksha
+    <input type="checkbox" name="author" value="Dinesh AD support eng"> Dinesh
     <input type="submit" value="Query">
   </form>
  
